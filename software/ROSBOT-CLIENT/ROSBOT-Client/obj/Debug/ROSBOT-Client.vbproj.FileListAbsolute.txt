@@ -1,0 +1,16 @@
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Debug\ROSBOT-Client.vbprojAssemblyReference.cache
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Debug\ROSBOT-Client.vbproj.GenerateResource.cache
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Debug\ROSBOT-Client.vbproj.CoreCompileInputs.cache
+C:\Users\bagli\source\repos\client-server-scara-test\bin\Debug\ROSBOT-Client.exe.config
+C:\Users\bagli\source\repos\client-server-scara-test\bin\Debug\ROSBOT-Client.exe
+C:\Users\bagli\source\repos\client-server-scara-test\bin\Debug\ROSBOT-Client.pdb
+C:\Users\bagli\source\repos\client-server-scara-test\bin\Debug\ROSBOT-Client.xml
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Debug\ROSBOT_Client.Main.resources
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Debug\ROSBOT_Client.Resources.resources
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Debug\ROSBOT-Client.exe
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Debug\ROSBOT-Client.xml
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Debug\ROSBOT-Client.pdb
+C:\Users\bagli\source\repos\client-server-scara-test\bin\Debug\ROSBOT-Client.exe.manifest
+C:\Users\bagli\source\repos\client-server-scara-test\bin\Debug\ROSBOT-Client.application
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Debug\ROSBOT-Client.exe.manifest
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Debug\ROSBOT-Client.application

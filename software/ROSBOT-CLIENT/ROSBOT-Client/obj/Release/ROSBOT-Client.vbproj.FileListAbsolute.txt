@@ -1,0 +1,11 @@
+C:\Users\bagli\source\repos\client-server-scara-test\bin\Release\client-server-scara-test.exe.config
+C:\Users\bagli\source\repos\client-server-scara-test\bin\Release\client-server-scara-test.exe
+C:\Users\bagli\source\repos\client-server-scara-test\bin\Release\client-server-scara-test.pdb
+C:\Users\bagli\source\repos\client-server-scara-test\bin\Release\client-server-scara-test.xml
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Release\client_server_scara_test.Main.resources
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Release\client_server_scara_test.Resources.resources
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Release\ROSBOT-Client.vbproj.GenerateResource.cache
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Release\ROSBOT-Client.vbproj.CoreCompileInputs.cache
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Release\client-server-scara-test.exe
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Release\client-server-scara-test.xml
+C:\Users\bagli\source\repos\client-server-scara-test\obj\Release\client-server-scara-test.pdb
